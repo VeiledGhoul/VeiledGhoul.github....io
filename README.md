@@ -1,4 +1,4 @@
-# VeiledGhoul.github....io
+# VeiledGhoul.github.io
 <!DOCTYPE html>
 <html>
 <head>
